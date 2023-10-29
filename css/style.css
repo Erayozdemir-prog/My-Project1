@@ -1,0 +1,20 @@
+.resimSlider {
+    
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+
+.hakkimizda {
+    background-color: #d3d3d3
+}
+
+.beceriler {
+    background-color: #d3d3d3
+}
+
+.beceriCard>img:hover{
+    opacity:0.8;
+}
